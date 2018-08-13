@@ -38,7 +38,7 @@ form input::before{
   padding:15px 25px;
   width: 50%;
   color: #ffffff;
-  background-color: #ffffff;
+  background-color: #2ecc71;
   border:none;
   margin-bottom:5px;
 }
@@ -54,7 +54,7 @@ form input::before{
 .btn-google{
   padding:15px 25px;
   width: 50%;
-  color: #be1717;
+  color: #000000;
   background-color: #ffffff;
   border:none;
 }
